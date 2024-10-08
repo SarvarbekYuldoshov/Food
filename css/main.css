@@ -67,6 +67,9 @@
     color: rgb(254, 254, 255);  
 }
 .navbar__button:hover{
+    background-color: transparent;
+    color: rgb(224, 149, 18);
+    border: 1px solid rgb(231, 188, 16);
     transform: scale(1.1);
     transition: 1s;
 }
