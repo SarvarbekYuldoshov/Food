@@ -3,6 +3,12 @@
     padding: 20px;
     margin: 0 auto;
 }
+.navbar-img {
+    padding: 20px;
+    width: 80px;
+    height: 50px;
+    border-radius: 0; 
+}
 .header__container{
     align-items: center;
     display: flex;
@@ -51,16 +57,18 @@
     color: rgb(237, 143, 27);
 }
 .navbar__button{
+    border: none;
     width: 150px;
-    height: 50px;
+    height: 40px;
     top: 643px;
     left: 246px;
     border-radius: 15px;
     background-color: rgb(163, 43, 15); 
     color: rgb(254, 254, 255);  
 }
-.navbar__link-active{
-    color: #DC780B;
+.navbar__button:hover{
+    transform: scale(1.1);
+    transition: 1s;
 }
 .hero__container{
     display: flex;
