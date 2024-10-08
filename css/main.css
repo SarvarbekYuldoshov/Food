@@ -5,7 +5,7 @@
 }
 .navbar-img {
     padding: 20px;
-    width: 80px;
+    width: 100px;
     height: 50px;
     border-radius: 0; 
 }
@@ -73,6 +73,10 @@
     transform: scale(1.1);
     transition: 1s;
 }
+
+
+/* ------------------------------------------------------------------hero---------------------------------------------------------- */
+
 .hero__container{
     display: flex;
     align-items: center;
