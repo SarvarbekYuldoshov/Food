@@ -204,12 +204,15 @@
 .about-box{
     width: 300px;
 }
+.about__text{
+    color: #DC780B;
+}
+
+/* --------------------------------------------------------------box------------------------------------- */
+
 .box__title{
     
     font-family: sans-serif;
-}
-.about__text{
-    color: #DC780B;
 }
 .box__text{
  
