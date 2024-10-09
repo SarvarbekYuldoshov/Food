@@ -105,8 +105,10 @@
     background:transparent;
 }
 .hero-button:hover{
+    color: #FFFF;
+    background-color: #DC780B;
     transition:1s;
-    transform: scale();
+    transform: scale(0.98);
 }
 
 /* --------------------------------------group=---------------------------------------------------------------- */
