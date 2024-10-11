@@ -143,7 +143,7 @@
     text-align: center;
 }
 .food__hr{
-    width: 100px;
+    width: 0px;
     height: 4px ;
     background:black;
     border-radius: 5px;
@@ -226,16 +226,22 @@
     font-family: sans-serif;
 }
 .box__text{
- 
     font-family:sans-serif ;
 }
 .box__button{
- 
     height: 50px;
-    border-radius: 10px;
-    border: 1px solid #0c0c0cb5;
+    width: 150px;
+    border-radius: 15px;
+    border: 1px solid #FFFF;
     color: #f2eeea;
     background: #DC780B;
+}
+.box__button:hover{
+    transform: scale(0.98);
+    transition: 1s;
+    background: transparent;
+    color: #e77809;
+    border: 1px solid #e77809;
 }
 
 /* =-----------------------------------------------------teg------------------------------------------------------ */
