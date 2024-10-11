@@ -143,9 +143,9 @@
     text-align: center;
 }
 .food__hr{
-    width: 80px;
-    height: 2px ;
-    background: rgb(236, 226, 226);
+    width: 100px;
+    height: 4px ;
+    background:black;
     border-radius: 5px;
 }
 
