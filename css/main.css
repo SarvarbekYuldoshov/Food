@@ -96,6 +96,10 @@
     line-height: 24px;
     text-align: left;
 }
+.hero-img{
+    width: 600px;
+    height: 400px;
+}
 .hero-button{
     border: 1px solid #DC780B;
     width: 140px;
