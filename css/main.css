@@ -208,14 +208,15 @@
     
 }
 .about__img{
-    border-radius: 20px;
+    
 }
 .about-span{
     font-size: 25px;
     color: #DC780B;
 }
-.about-box{
-    width: 300px;
+.about-title{
+    font-family:sans-serif ;
+    width: 500px;
 }
 
 /* --------------------------------------------------------------box------------------------------------- */
