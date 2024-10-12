@@ -223,14 +223,6 @@
 }
 
 /* --------------------------------------------------------------box------------------------------------- */
-
-.box__title{
-    
-    font-family: sans-serif;
-}
-.box__text{
-    font-family:sans-serif ;
-}
 .box__button{
     height: 50px;
     width: 150px;
