@@ -208,7 +208,10 @@
     
 }
 .about__img{
-    
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 .about-span{
     font-size: 25px;
