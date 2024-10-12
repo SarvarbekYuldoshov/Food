@@ -210,11 +210,12 @@
 .about__img{
     border-radius: 20px;
 }
+.about-span{
+    font-size: 25px;
+    color: #DC780B;
+}
 .about-box{
     width: 300px;
-}
-.about__text{
-    color: #DC780B;
 }
 
 /* --------------------------------------------------------------box------------------------------------- */
